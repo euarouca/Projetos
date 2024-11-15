@@ -1,15 +1,17 @@
 import pandas as pd
 from time import sleep
 from bs4 import BeautifulSoup
+import re
 from selenium import webdriver
 from amazoncaptcha import AmazonCaptcha
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
 
+VERTICAL = 'a-section a-spacing-small puis-padding-left-small puis-padding-right-small' 
+HORIZONTAL = 'puisg-col puisg-col-4-of-12 puisg-col-8-of-16 puisg-col-12-of-20 puisg-col-12-of-24 puis-list-col-right'
 TITULO_CARD = 'a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal'
 DOGS = "Sorry! Something went wrong on our end. Please go back and try again or go to Amazon's home page."
+
 
 class BaseAmazon:
     def __init__(self, email, senha):
@@ -17,7 +19,6 @@ class BaseAmazon:
         # Logar no asinzen
         # Validar captcha
         
-        # servico = Service(ChromeDriverManager().install())
         chrome_option = Options()
         chrome_option.add_extension('vendas_asinzen/arquivos/extensao/asinzen.crx')
         self.driver = webdriver.Chrome(options=chrome_option)
@@ -97,15 +98,51 @@ class Amazon(BaseAmazon):
         sleep(1)
 
     def conteudo_pagina(self):
-        # Buscar as informações no HTML da página
+    # Buscar as informações no HTML da página
         html = BeautifulSoup(self.driver.page_source, 'html.parser') # conteudo da pagina
         
         try:
-            url_anuncio = 'https://www.amazon.com/' + html.find('a', attrs={'class': TITULO_CARD})['href']
-            self.driver.get(url_anuncio)
-            
+            if html.find_all('div', attrs={'class': VERTICAL}): # Verifica se os produtos estão na vertical
+                self.produtos_vertical()
+                
+            if html.find_all('div', attrs={'class': HORIZONTAL}): # Verifica se os produtos estão na horizontal
+                self.produtos_horizontal()
         except:
             pass
+        
+    def produtos_vertical(self):
+        # Verifica o conteudo da pagina para ver se o produto existe
+        html = BeautifulSoup(self.driver.page_source, 'html.parser') # conteudo da pagina
+
+        produtos =  html.find_all('div', attrs={'class': VERTICAL})
+            
+        for produto in produtos: # Procurar nos cards do site 
+            patrocinado = produto.find('a', attrs={'class': 'puis-label-popover puis-sponsored-label-text'})
+            if patrocinado:
+                continue
+            
+            url = produto.find('a', attrs={'class': TITULO_CARD})['href'].upper()
+            if self.nome_produto in url: 
+                url_anuncio = 'https://www.amazon.com/' + produto.find('a', attrs={'class': TITULO_CARD})['href']
+                self.driver.get(url_anuncio)
+
+
+                    
+    def produtos_horizontal(self):
+        # Verifica o conteudo da pagina para ver se o produto existe
+        html = BeautifulSoup(self.driver.page_source, 'html.parser') # conteudo da pagina
+
+        produtos =  html.find_all('div', attrs={'class': HORIZONTAL})
+            
+        for produto in produtos: # Procurar nos cards do site 
+            patrocinado = produto.find('a', attrs={'class': 'puis-label-popover puis-sponsored-label-text'})
+            if patrocinado:
+                continue
+            
+            url = produto.find('a', attrs={'class': TITULO_CARD})['href'].upper()
+            if self.nome_produto in url: 
+                url_anuncio = 'https://www.amazon.com/' + produto.find('a', attrs={'class': TITULO_CARD})['href']
+                self.driver.get(url_anuncio)
         
     def asinzen(self):
         # Confere se o produto é da mesma marca que da planilha 
@@ -139,10 +176,9 @@ class Amazon(BaseAmazon):
                     'Preço' : value,
                 }
                 else:  
-                    # Locate the input element by its ID
-                    input_element = self.driver.find_element(By.ID, 'Sellprice-FBA')
-                    # Get the value attribute
-                    value = input_element.get_attribute('value')
+                    value = html.find('div', attrs={'class': 'a-section a-spacing-none aok-align-center aok-relative'})
+                    value = value.find('span', attrs={'class': 'aok-offscreen'}).text
+                    value = self.formatar_preco(value)
                     historico = html.find('div', attrs={'class': 'keepa-data-table col-xl-12'})
                     itens = historico.find_all('div', attrs={'class', 'row'})
                     est_sales = itens[3]
@@ -183,17 +219,7 @@ class Amazon(BaseAmazon):
             erro300 = erro300.find('strong').text
 
             if erro300 == 'Error 300': # Excedeu o limite de requisições por hora
-                while True:
-                    sleep(60)
-                
-                    botao_login = self.driver.find_element('xpath', '//*[@id="az-app-container"]/div/div[3]/form/div[4]/input').click()
-
-                    erro300 = BeautifulSoup(self.driver.page_source, 'html.parser')
-                    erro300 = erro300.find('div', attrs={'class': 'detail-app-container'})
-                    erro300 = erro300.find('strong').text
-                    
-                    if erro300 is None:
-                        break
+                raise TypeError('Acabaram as requisicoes')
                     
         except:
             pass
@@ -204,6 +230,19 @@ class Amazon(BaseAmazon):
         self.planilha.loc[self.indice_atual, 'Day 180'] = self.vendas['day180']
         self.planilha.loc[self.indice_atual, 'Preço'] = self.vendas['Preço']
         self.planilha.to_excel('vendas_asinzen/arquivos/teste.xlsx', index=False)
+        
+    def formatar_preco(self, texto):
+        # Expressão regular para pegar valores com ou sem separador de milhares
+        padrao = r'\d{1,3}(?:,\d{3})*(?:\.\d{2})?'
+
+        # Encontrar todos os preços que correspondem ao padrão
+        preco = re.search(padrao, texto)
+
+        if preco:
+            return float(preco.group())
+        else:
+            return 0
+                
 
 navegador = Amazon('lucasarouca2002@gmail.com', 'arouca123', 'teste.xlsx')
 navegador.asin()

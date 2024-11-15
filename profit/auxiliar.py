@@ -9,7 +9,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from escaner import reconhecer
 
 
-XPATH_SAVE = '/html/body/div[2]/div/section/section/article/div[2]/div/div[1]/div/div/div[3]/div'
+XPATH_SAVE = '/html/body/div[2]/div/section/section/article/div/div/div[1]/div/div/div[3]/div'
 
 url_base = 'https://www.profitprotectorpro.com/app/'
 # servico = Service(ChromeDriverManager().install())
@@ -25,7 +25,7 @@ class Profit:
                 'preco_minimo': '/html/body/div[2]/div/section/section/article/div[2]/div/div[1]/div/div/span/div/div/div/div/div/div[5]/div/div[10]/div[2]/div[1]/input',
                 'preco_maximo': '/html/body/div[2]/div/section/section/article/div[2]/div/div[1]/div/div/span/div/div/div/div/div/div[5]/div/div[11]/div[2]/div[1]/input',
                 'estrategia': '/html/body/div[2]/div/section/section/article/div[2]/div/div[1]/div/div/span/div/div/div/div/div/div[5]/div/div[12]/div[2]/select',
-                'on_off': '/html/body/div[2]/div/section/section/article/div[2]/div/div[1]/div/div/span/div/div/div/div/div/div[3]/div/div[3]/div[1]/div/div[1]/input'
+                'on_off': '/html/body/div[2]/div/section/section/article/div/div/div[1]/div/div/span/div/div/div/div/div/div[3]/div/div[3]/div[1]/div/div[1]/input'
             },
             'dois_paises': {
                 'preco_minimo': f'/html/body/div[2]/div/section/section/article/div[2]/div/div[1]/div/div/span/div[{self.indice_pais_atual}]/div/div/div/div/div[5]/div/div[10]/div[2]/div[1]/input',
@@ -40,17 +40,17 @@ class Profit:
         self.indice_pais_atual = indice
         self.xpaths = {
             'um_pais':{
-                'preco_minimo': '/html/body/div[2]/div/section/section/article/div[2]/div/div[1]/div/div/span/div/div/div/div/div/div[5]/div/div[10]/div[2]/div[1]/input',
-                'preco_maximo': '/html/body/div[2]/div/section/section/article/div[2]/div/div[1]/div/div/span/div/div/div/div/div/div[5]/div/div[11]/div[2]/div[1]/input',
-                'estrategia': '/html/body/div[2]/div/section/section/article/div[2]/div/div[1]/div/div/span/div/div/div/div/div/div[5]/div/div[12]/div[2]/select',
-                'on_off': '/html/body/div[2]/div/section/section/article/div[2]/div/div[1]/div/div/span/div/div/div/div/div/div[3]/div/div[3]/div[1]/div/div[1]/input'
+                'preco_minimo': '/html/body/div[2]/div/section/section/article/div/div/div[1]/div/div/span/div/div/div/div/div/div[5]/div/div[10]/div[2]/div[1]/input',
+                'preco_maximo': '/html/body/div[2]/div/section/section/article/div/div/div[1]/div/div/span/div/div/div/div/div/div[5]/div/div[11]/div[2]/div[1]/input',
+                'estrategia': '/html/body/div[2]/div/section/section/article/div/div/div[1]/div/div/span/div/div/div/div/div/div[5]/div/div[12]/div[2]/select',
+                'on_off': '/html/body/div[2]/div/section/section/article/div/div/div[1]/div/div/span/div/div/div/div/div/div[3]/div/div[3]/div[1]/div/div[1]/input'
             },
             'dois_paises': {
-                'preco_minimo': f'/html/body/div[2]/div/section/section/article/div[2]/div/div[1]/div/div/span/div[{self.indice_pais_atual}]/div/div/div/div/div[5]/div/div[10]/div[2]/div[1]/input',
-                'preco_maximo': f'/html/body/div[2]/div/section/section/article/div[2]/div/div[1]/div/div/span/div[{self.indice_pais_atual}]/div/div/div/div/div[5]/div/div[11]/div[2]/div[1]/input',
-                'estrategia': f'/html/body/div[2]/div/section/section/article/div[2]/div/div[1]/div/div/span/div[{self.indice_pais_atual}]/div/div/div/div/div[5]/div/div[12]/div[2]/select',
-                'on_off': f'/html/body/div[2]/div/section/section/article/div[2]/div/div[1]/div/div/span/div[{self.indice_pais_atual}]/div/div/div/div/div[3]/div/div[3]/div[1]/div/div[1]/input',
-                'pais_dois': '/html/body/div[2]/div/section/section/article/div[2]/div/div[1]/div/div/span/div[1]/div/div/div/div/div[1]/div[3]/div[2]'            
+                'preco_minimo': f'/html/body/div[2]/div/section/section/article/div/div/div[1]/div/div/span/div[{self.indice_pais_atual}]/div/div/div/div/div[5]/div/div[10]/div[2]/div[1]/input',
+                'preco_maximo': f'/html/body/div[2]/div/section/section/article/div/div/div[1]/div/div/span/div[{self.indice_pais_atual}]/div/div/div/div/div[5]/div/div[11]/div[2]/div[1]/input',
+                'estrategia': f'/html/body/div[2]/div/section/section/article/div/div/div[1]/div/div/span/div[{self.indice_pais_atual}]/div/div/div/div/div[5]/div/div[12]/div[2]/select',
+                'on_off': f'/html/body/div[2]/div/section/section/article/div/div/div[1]/div/div/span/div[{self.indice_pais_atual}]/div/div/div/div/div[3]/div/div[3]/div[1]/div/div[1]/input',
+                'pais_dois': '/html/body/div[2]/div/section/section/article/div/div/div[1]/div/div/span/div[1]/div/div/div/div/div[1]/div[3]'            
             },
         }
         
@@ -84,7 +84,6 @@ class Profit:
             entrada_preco_minimo.clear()
             entrada_preco_minimo.send_keys(str(preco_minimo))
             
-        
           
         try:
             sleep(1)

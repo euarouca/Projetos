@@ -19,1091 +19,26 @@ Filter
 FBM | Need Min/Max
 Sort
 
-Oldest - Newest
+Newest - Oldest
 View
 
 50 ASINs
 Previous
+1
 2
 3
-4
-5
-6
 Next
-CA
 US
-Gems Sensors FS-500 Series Polypropylene Flow Switch, Elbow, Shuttle Type, 0.25 gpm Flow Setting, 3/4" NPT FemaleCondition: Unavailable
-SKU: FBM249.05.08.33 
-ASIN: B006Z10U8A
-BSR #:
-Stock: 0
-(0.00 inc VAT)
-Buy Price:CAD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-Canada
-Buy Box:
-CAD $None
-Low FBA Price:
-CAD $
-To Buy Box:
-CAD $None
-Current Price:
-CAD $None
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-CAD $
-Min:
-CAD $
-Max:
-CAD $
-Strategy
-
-Default
-Automation
-
-No Automation
-CA
-US
-Phoenix Contact 2865434 MACX MCR-EX-SL-NAM-RCondition: New
-SKU: FBM329.06.08.23 
-ASIN: B00MEIS31Y
-BSR #:
-Stock: 0
-(0.00 inc VAT)
-Buy Price:CAD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-Canada
-Buy Box:
-CAD $676.58
-Low FBA Price:
-CAD $
-To Buy Box:
-CAD $-102.47
-Current Price:
-CAD $574.11
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-CAD $
-Min:
-CAD $
-Max:
-CAD $
-Strategy
-
-Default
-Automation
-
-No Automation
-CA
-Lot of 4 Idec RR2P-U AC120 Relay T24396Condition: New
-SKU: FBM60,99.27.12.114 
-ASIN: B00G4C9HGG
-BSR #:
-Stock: 685
-(0.00 inc VAT)
-Buy Price:CAD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-Canada
-Buy Box:
-CAD $235.58
-Low FBA Price:
-CAD $
-To Buy Box:
-CAD $0
-Current Price:
-CAD $235.58
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-CAD $
-Min:
-CAD $
-Max:
-CAD $
-Strategy
-
-Default
-Automation
-
-No Automation
-CA
-Advantech PCI-1761-BE Interface, DAQ Card, 8ch Relay & 8ch Isolated DI PCI CardCondition: New
-SKU: FBM199,01.09,28 
-ASIN: B07GL6ZT62
-BSR #:
-Stock: 96
-(0.00 inc VAT)
-Buy Price:CAD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-Canada
-Buy Box:
-CAD $531.58
-Low FBA Price:
-CAD $
-To Buy Box:
-CAD $0
-Current Price:
-CAD $531.58
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-CAD $
-Min:
-CAD $
-Max:
-CAD $
-Strategy
-
-Default
-Automation
-
-No Automation
-CA
-ADVANTECH ADAM-6266-B 4-ch Relay Output Modbus TCP Module with 4-ch DICondition: New
-SKU: FBM469,01.09,37 
-ASIN: B07XY9YBF2
-BSR #:
-Stock: 4
-(0.00 inc VAT)
-Buy Price:CAD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-Canada
-Buy Box:
-CAD $1029.99
-Low FBA Price:
-CAD $
-To Buy Box:
-CAD $-108.41
-Current Price:
-CAD $921.58
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-CAD $
-Min:
-CAD $
-Max:
-CAD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-Bel Power Solutions PFC375-1012 Power Supply AC-DC 12V@30A 85-264V In Enclosed Panel Mount PFC PFC SeriesCondition: New
-SKU: FBM1099.07.08.16 
-ASIN: B01MY4GOZI
-BSR #:
-Stock: 8
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $919.31
-Low FBA Price:
-USD $
-To Buy Box:
-USD $179.69
-Current Price:
-USD $1099.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-CA
-US
-XP POWER AFM60US12C2 AC Power Supply 60WCondition: New
-SKU: FBM116.07.08.78 
-ASIN: B01I8XYVFK
-BSR #:
-Stock: 25
-(0.00 inc VAT)
-Buy Price:CAD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-Canada
-Buy Box:
-CAD $None
-Low FBA Price:
-CAD $
-To Buy Box:
-CAD $None
-Current Price:
-CAD $403.59
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-CAD $
-Min:
-CAD $
-Max:
-CAD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-XP POWER EML15US05-S Power Supply; AC-DC; 15W 5V 3A, Screws, Open Frame, Adj Vout, 85~264 VACinCondition: New
-SKU: FBM119.07.08.24 
-ASIN: B083F766JF
-BSR #:
-Stock: 13
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $None
-Low FBA Price:
-USD $
-To Buy Box:
-USD $None
-Current Price:
-USD $119.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-Xp Power Power Supply, Ac-Dc, 7V, 40W - ECM40US07Condition: New
-SKU: FBM119.07.08.25 
-ASIN: B0084ZN3QQ
-BSR #:
-Stock: 23
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $119.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $119.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-Xp Power Ac-Dc Converter, Enclosed, 3 O/p, 30W, 5V, 12V, 12V, Screw Terminal - ECL30UT02-SCondition: New
-SKU: FBM169.07.08.93 
-ASIN: B00DLT2CV2
-BSR #:
-Stock: 60
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $169.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $169.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-XP POWER ECS130US28 Switching Power Supplies PSU, 130W, Compact Open FrameCondition: New
-SKU: FBM179.07.08.19 
-ASIN: B01I8Y1R5G
-BSR #:
-Stock: 5
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $179.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $179.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-GCS150PS24 Power Supply AC-DC; Open Frame 150W IND+MED PSU, HI EFF.Condition: New
-SKU: FBM179.07.08.32 
-ASIN: B01I8Y4FA0
-BSR #:
-Stock: 123
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $179.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $179.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-XP POWER - ECP150PS12 - AC-DC CONV, OPEN FRAME, 1 O/P, 150W, 12.5A, 12VCondition: New
-SKU: FBM189.07.08.10 
-ASIN: B00DLSN7K8
-BSR #:
-Stock: 17
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $189.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $189.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-XP POWER ECE80US15 AC/DC PCB Mount Power Supply (PSU), 1 Output, 80 W, 15 V, 5.33 ACondition: New
-SKU: FBM189.07.08.23 
-ASIN: B079BRJ8K8
-BSR #:
-Stock: 5
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $189.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $189.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-XP POWER ECM60US12-C Switching Power Supplies PSU, 60W, Single Output, CoveredCondition: New
-SKU: FBM199.07.08.51 
-ASIN: B01I8Y1OCW
-BSR #:
-Stock: 55
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $None
-Low FBA Price:
-USD $
-To Buy Box:
-USD $None
-Current Price:
-USD $199.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-SDI160G-48-U-P51 Desktop AC Adapters ac-dc, 48 Vdc, 3.3 A, SW, C14 Desk-top, P51 4-pin Power DIN, no Cord, Level VICondition: New
-SKU: FBM199.07.08.87 
-ASIN: B08QXXB3DT
-BSR #:
-Stock: 80
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $199.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $199.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-CA
-US
-Bel Power Solutions HC12-3.4-AG, Power Supply; AC-DC; 12V@3.4A; 100-264V In; Open Frame; Panel Mount; LinearCondition: New
-SKU: FBM229.07.08.15 
-ASIN: B015GQ1ZJW
-BSR #:
-Stock: 150
-(0.00 inc VAT)
-Buy Price:CAD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-Canada
-Buy Box:
-CAD $516.60
-Low FBA Price:
-CAD $
-To Buy Box:
-CAD $6.8
-Current Price:
-CAD $523.40
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-CAD $
-Min:
-CAD $
-Max:
-CAD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-MBC201-1T12G, AC/DC Power Supply Single-Out 12V 13.33A 200W MedicalCondition: New
-SKU: FBM229.07.08.21 
-ASIN: B017U2BNTM
-BSR #:
-Stock: 7
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $None
-Low FBA Price:
-USD $
-To Buy Box:
-USD $None
-Current Price:
-USD $229.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-XP POWER AHE220PS12 AC/DC Power Supply, IEC320/C14 Input, Mains Plug Sold Separately, 90 V, 264 V, 180 W, 12 V, 15 ACondition: New
-SKU: FBM239.07.08.34 
-ASIN: B01BJRCTTC
-BSR #:
-Stock: 38
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $239.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $239.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-NEW BANNER Q45VR2LV PHOTOELECTRIC SENSOR 90-250V-AC D544033Condition: New
-SKU: FBM259.05.08.75 
-ASIN: B01LXTNQGX
-BSR #: 1468070
-Stock: 7
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $234.50
-Low FBA Price:
-USD $
-To Buy Box:
-USD $24.5
-Current Price:
-USD $259.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-MBC150-1T05G, AC/DC Power Supply Single-Out 5V 16A 110W Medical (1 Items)Condition: New
-SKU: FBM269.07.08.36 
-ASIN: B00HKJP0G8
+QS30AF600, Photoelectric Sensor, Adjustable Field, 600mm, 10-30VDC, L/D NPN/PNP, 2m Cable, 11977Condition: New
+SKU: FBM399.12.11.28 
+ASIN: B09VYGX8GG
 BSR #:
 Stock: 6
 (0.00 inc VAT)
 Buy Price:USD $
  History
 Ignore Merchants
+Scheduled Repricing
 Analyze with BBP
 FBA
 FBM
@@ -1123,13 +58,175 @@ Automate B/E and Min Max All Marketplaces
 Notes...
 US
 Buy Box:
-USD $None
+USD $339.98
 Low FBA Price:
 USD $
 To Buy Box:
-USD $None
+USD $59.02
 Current Price:
-USD $269.00
+USD $399.00
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+USD $
+Min:
+USD $
+Max:
+USD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+NMB TECHNOLOGIES 4710KL-05W-B50-E00 DC FANCondition: New
+SKU: FBMDIGIKEY56.00.15.02.23 
+ASIN: B00DJY3XVC
+BSR #:
+Stock: Data Pending
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $299.03
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $0
+Current Price:
+CAD $299.03
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+2868677, DIN Rail Power Supply, AC-DC, 91.2W 24VDC 3.8A, 85-264VACin, Step-PS/ 1AC/24DC/3.8/C2LPSCondition: New
+SKU: FBM299.31.07.13 
+ASIN: B09LVS653V
+BSR #:
+Stock: Data Pending
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $683.15
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $0
+Current Price:
+CAD $683.15
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+US
+Red Lion Controls/N-Tron PAXLIT00 Pax LITE Current Meter, AC 5ACondition: New
+SKU: FBM399.12.11.01 
+ASIN: B07D1C1B88
+BSR #: 859329
+Stock: 47
+(0.00 inc VAT)
+Buy Price:USD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+US
+Buy Box:
+USD $334.00
+Low FBA Price:
+USD $
+To Buy Box:
+USD $65
+Current Price:
+USD $399.00
 Profit:
 ROI:
 %
@@ -1148,15 +245,124 @@ Automation
 
 No Automation
 US
-XP POWER JPS130PS15 Switching Power Supplies AC/DC, 130W Open-Frame Power SupplyCondition: New
-SKU: FBM269.07.08.55 
-ASIN: B01I8Y1TEK
+UF18JC23-BTHR, AC Fan Axial Ball Bearing 230V 460CFM 59dB 180 X 180 X 90mmCondition: New
+SKU: FBM369.12.11.86 
+ASIN: B07L5YKQJ7
+BSR #: 958576
+Stock: 6
+(0.00 inc VAT)
+Buy Price:USD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+US
+Buy Box:
+USD $368.99
+Low FBA Price:
+USD $
+To Buy Box:
+USD $0.01
+Current Price:
+USD $369.00
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+USD $
+Min:
+USD $
+Max:
+USD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+Development Boards & Kits - ARM ZedBoard Zynq-7000 Development BoardCondition: New
+SKU: FBM899.31.10.47 
+ASIN: B072C5TPB3
+BSR #:
+Stock: 77
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $1723.84
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $0
+Current Price:
+CAD $1723.84
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+SLX-5MS-1 SL5 p MNG allCU WIDE TEMPCondition: New
+SKU: FBM1150.15.03.159 
+ASIN: B07CVP15G3
 BSR #:
 Stock: 17
 (0.00 inc VAT)
-Buy Price:USD $
+Buy Price:CAD $
  History
 Ignore Merchants
+Scheduled Repricing
 Analyze with BBP
 FBA
 FBM
@@ -1174,26 +380,26 @@ Compete With Amazon
 Automate B/E and Min Max
 Automate B/E and Min Max All Marketplaces
 Notes...
-US
+Canada
 Buy Box:
-USD $269.00
+CAD $None
 Low FBA Price:
-USD $
+CAD $
 To Buy Box:
-USD $0
+CAD $None
 Current Price:
-USD $269.00
+CAD $2012.01
 Profit:
 ROI:
 %
 Profit Margin:
 %
 Break Even:
-USD $
+CAD $
 Min:
-USD $
+CAD $
 Max:
-USD $
+CAD $
 Strategy
 
 Default
@@ -1201,15 +407,16 @@ Automation
 
 No Automation
 US
-DELTA PRODUCTS MDS-400AUS19 BA MDS Series 400 W 19 V Single Output Open Frame Medical Power Supply - 1 item(s)Condition: New
-SKU: FBM269.07.08.90 
-ASIN: B073RQ5CT6
+QDC-550C, Cordset; 7/8-16 Mini; Female Straight; 4Wire+Drain; 15 Meter; Shielded; PVC; YellowCondition: New
+SKU: FBM369.12.11.39 
+ASIN: B09V976XQS
 BSR #:
-Stock: 30
+Stock: 11
 (0.00 inc VAT)
 Buy Price:USD $
  History
 Ignore Merchants
+Scheduled Repricing
 Analyze with BBP
 FBA
 FBM
@@ -1229,13 +436,13 @@ Automate B/E and Min Max All Marketplaces
 Notes...
 US
 Buy Box:
-USD $269.00
+USD $339.98
 Low FBA Price:
 USD $
 To Buy Box:
-USD $0
+USD $29.02
 Current Price:
-USD $269.00
+USD $369.00
 Profit:
 ROI:
 %
@@ -1254,15 +461,70 @@ Automation
 
 No Automation
 US
-Banner PBT43TMB5 Plastic Fiber Diffuse Reflective CoreDia.: 1 mm 70768Condition: New
-SKU: FBM279.05.08.138 
-ASIN: B01N0RL4HP
+K50PTFAMGRY3QP, Programmable Touch Button, 3-Color RGB, 50mm, 12-30VDC, in: PNP/NPN, 0.15m QDM12, 806107Condition: New
+SKU: FBM369.12.11.32 
+ASIN: B09X7JGVJC
+BSR #:
+Stock: 5
+(0.00 inc VAT)
+Buy Price:USD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+US
+Buy Box:
+USD $324.98
+Low FBA Price:
+USD $
+To Buy Box:
+USD $44.02
+Current Price:
+USD $369.00
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+USD $
+Min:
+USD $
+Max:
+USD $
+Strategy
+
+Default
+Automation
+
+No Automation
+US
+Banner Engineering Corporation IVU2PTGR08, Vision Sensor, iVu Plus TG Gen2 Sensor with Ethernet, Red Ring Light and 8 mm Lens, 90735Condition: New
+SKU: FBM3499.12.11.30 
+ASIN: B09X63TQ8Q
 BSR #:
 Stock: 2
 (0.00 inc VAT)
 Buy Price:USD $
  History
 Ignore Merchants
+Scheduled Repricing
 Analyze with BBP
 FBA
 FBM
@@ -1282,13 +544,13 @@ Automate B/E and Min Max All Marketplaces
 Notes...
 US
 Buy Box:
-USD $279.00
+USD $3499.00
 Low FBA Price:
 USD $
 To Buy Box:
 USD $0
 Current Price:
-USD $279.00
+USD $3499.00
 Profit:
 ROI:
 %
@@ -1307,15 +569,16 @@ Automation
 
 No Automation
 US
-BANNER ENGINEERING SM2A31RLQD 2 Wire, 30 Meter Range, 24-240 VAC, for EMITTER See Part # SMA31ELQD, PHOTOELECTRIC Sensor, ReceiverCondition: New
-SKU: FBM289.05.08.144 
-ASIN: B07HRV6ZRC
+LEL12-1REC5-37583-30-G1-V, (1 Items)Condition: New
+SKU: FBM329.12.11.71 
+ASIN: B08SG8YB21
 BSR #:
-Stock: 24
+Stock: 34
 (0.00 inc VAT)
 Buy Price:USD $
  History
 Ignore Merchants
+Scheduled Repricing
 Analyze with BBP
 FBA
 FBM
@@ -1341,7 +604,7 @@ USD $
 To Buy Box:
 USD $None
 Current Price:
-USD $289.00
+USD $329.00
 Profit:
 ROI:
 %
@@ -1360,334 +623,16 @@ Automation
 
 No Automation
 US
-MBC201-1T15G AC/DC Power Supply Single-Out 15V 10.66A 200W Medical 18-PinCondition: New
-SKU: FBM289.07.08.33 
-ASIN: B017U2Q93W
-BSR #:
-Stock: 28
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $None
-Low FBA Price:
-USD $
-To Buy Box:
-USD $None
-Current Price:
-USD $289.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-CUI VSBU-120-D312 Switching Power Supplies ac-dc 120 W, 3.3/12 V, Dual Output, PFC, Open PCBCondition: New
-SKU: FBM289.07.08.76 
-ASIN: B08PQ3DYFM
-BSR #:
-Stock: 20
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $None
-Low FBA Price:
-USD $
-To Buy Box:
-USD $None
-Current Price:
-USD $289.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-2903153, AC/DC Power Supply Single-Out 24V 5A 120WCondition: New
-SKU: FBM299.06.08.15 
-ASIN: B07M7B5SVZ
-BSR #:
-Stock: 22
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $299.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $299.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-CA
-US
-XP POWER JTM2024S05 Isolated DC-DC Converter, 20W 5V 4A, 9-36Vin, 4:1 Input,Condition: New
-SKU: FBM119.07.08.30 
-ASIN: B083QQVSC6
-BSR #:
-Stock: 22
-(0.00 inc VAT)
-Buy Price:CAD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-Canada
-Buy Box:
-CAD $None
-Low FBA Price:
-CAD $
-To Buy Box:
-CAD $None
-Current Price:
-CAD $408.36
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-CAD $
-Min:
-CAD $
-Max:
-CAD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-MAP130-1024, AC/DC Power Supply Single-Out 24V/28V 6.2A/5.4A 130W (1 Items)Condition: New
-SKU: FBM1199.07.08.64 
-ASIN: B095KYCKNW
-BSR #:
-Stock: 18
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $1122.88
-Low FBA Price:
-USD $
-To Buy Box:
-USD $76.12
-Current Price:
-USD $1199.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-XP POWER AHM180PS12 AC-DC CONV, EXTERNAL PLUG IN, 1 O/P, 165W, 12VCondition: New
-SKU: FBM129.07.08.26 
-ASIN: B00DLSLDO0
-BSR #:
-Stock: 20
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $129.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $129.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-EML30US05-S Power Supply AC-DC; 5V, 6A; 90-264V in; Enclosed; 30W; Panel; EML30 SeriesCondition: New
-SKU: FBM129.07.08.66 
-ASIN: B01I7RPYWQ
+Alpha Wire 1898/5C SL005 Multi-Conductor Cables 18AWG 5C UNSHLD 100ft SPOOL SLATECondition: New
+SKU: FBM329.12.11.62 
+ASIN: B005S3IUB0
 BSR #:
 Stock: 55
 (0.00 inc VAT)
 Buy Price:USD $
  History
 Ignore Merchants
+Scheduled Repricing
 Analyze with BBP
 FBA
 FBM
@@ -1707,119 +652,13 @@ Automate B/E and Min Max All Marketplaces
 Notes...
 US
 Buy Box:
-USD $129.00
+USD $321.07
 Low FBA Price:
 USD $
 To Buy Box:
-USD $0
+USD $7.93
 Current Price:
-USD $129.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-XP POWER ACM36US12 AC/DC Power Supply, Level VI, 1 Output, 36 W, 12 V, 3 ACondition: New
-SKU: FBM49,99.07.08.45 
-ASIN: B07FQ4Y1TN
-BSR #:
-Stock: 80
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $50.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $50.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-XP POWER VEL18US090-US-JA AC/DC Power Supply Wall Plug Fixed 1 Output 90 V 264 V 18 W 9 VCondition: New
-SKU: FBM49,99.07.08.53 
-ASIN: B06WCZ59S6
-BSR #:
-Stock: 77
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $50.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $50.00
+USD $329.00
 Profit:
 ROI:
 %
@@ -1838,548 +677,556 @@ Automation
 
 No Automation
 CA
-US
-XP POWER VCE10US09 Power Supply; AC-DC; Encapsulated; 10W 9V 1.11A; 85-305VAC in; PCB MountCondition: New
-SKU: FBM56,99.07.08.12 
-ASIN: B083QTDQNW
+TDK LAMBDA HWS15A-24/A AC/DC Enclosed Power Supply, Adjustable, Fixed, 85 V, 265 V, 15 W, 24 V, 650 mACondition: New
+SKU: FBM89.01.043 
+ASIN: B011OVBKMK
+BSR #:
+Stock: 56
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $385.48
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $0
+Current Price:
+CAD $385.48
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+Crimp Tool, Hand, Amphenol 97 Series Cylindrical Contacts, Amphenol Industrial Crimp ToolsCondition: New
+SKU: FBM869.12.11.43 
+ASIN: B00GSMCYDK
+BSR #:
+Stock: 23
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $1550.20
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $0
+Current Price:
+CAD $1550.20
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+Phoenix Contact 2891064 Industrial Ethernet Switch FL Switch 1001T-4POE, PoE+ Ethernet Switch, 4 PoE+ Ports 1 Standard RJ45 PortCondition: New
+SKU: FBM799.18.07.154 
+ASIN: B085LMWMCH
+BSR #:
+Stock: 65
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $None
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $None
+Current Price:
+CAD $1307.61
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+Phoenix Contact 2891929 Ethernet Modules FL Switch SFN 8TX 8 Copper Wire PortsCondition: New
+SKU: FBM379.07.05.113 
+ASIN: B0842PRKT7
+BSR #:
+Stock: 266
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $854.02
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $0
+Current Price:
+CAD $854.02
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+NMB TECHNOLOGIES BG0703-B044-000-00 Blowers DC Blower, 75x30mm, 12VDC, 10.6CFM, 2-WireCondition: Unavailable
+SKU: FBM59.18.07.143 
+ASIN: B07T3HCLQY
+BSR #:
+Stock: 341
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $None
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $None
+Current Price:
+CAD $None
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+CMC 1.2MH 16A 2LN TH, Pack of 5Condition: Unavailable
+SKU: FBM49.08.02.18 
+ASIN: B00HL02PO6
+BSR #:
+Stock: 640
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $None
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $None
+Current Price:
+CAD $None
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+LATTICE SEMICONDUCTOR ICE40UP5K-B-EVN iCE40UP UltraPlus Breakout FPGA Evaluation Board - 1 item(s)Condition: Unavailable
+SKU: FBM129.29.11.12 
+ASIN: B06Y2SS8PP
+BSR #:
+Stock: 12
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $None
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $None
+Current Price:
+CAD $None
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+X-ON M4Q045-CA01-01 Fans - 1PcsCondition: New
+SKU: FBM119.18.07.134 
+ASIN: B005T9X51S
+BSR #:
+Stock: 7
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $411.09
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $0
+Current Price:
+CAD $411.09
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+EBM PAPST Ebm Papst 8830N Axial Fan, 80Mm, 115VacCondition: Unavailable
+SKU: FBM109.24.10.16 
+ASIN: B005T5DGL6
+BSR #:
+Stock: 85
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $None
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $None
+Current Price:
+CAD $None
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+TDK-Lambda LS75-48 Chassis Mount Power SupplyCondition: New
+SKU: FBM69,99.01.051 
+ASIN: B00ID6I10Y
+BSR #:
+Stock: 75
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $344.22
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $-0.36
+Current Price:
+CAD $343.86
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+TDK LAMBDA DSP10-24 AC/DC DIN Rail Power Supply, Switch Mode, Fixed, 90 V, 264 V, 10.1 W, 24 V, 420 mACondition: Unavailable
+SKU: FBM62,99.01.055 
+ASIN: B005S3UI5Q
 BSR #:
 Stock: 30
 (0.00 inc VAT)
 Buy Price:CAD $
  History
 Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-Canada
-Buy Box:
-CAD $307.15
-Low FBA Price:
-CAD $
-To Buy Box:
-CAD $-165.86
-Current Price:
-CAD $141.29
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-CAD $
-Min:
-CAD $
-Max:
-CAD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-PHOENIX CONTACT 1692459 | SACB-8/16-L-M23Condition: New
-SKU: FBM319.06.08.03 
-ASIN: B00HKIDWYQ
-BSR #:
-Stock: 8
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $319.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $319.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-DELTA PRODUCTS MDS-040APS18 BA MDS Series 40 W 18 V 2 x 3" Open Frame Medical Power Supply - 1 item(s)Condition: New
-SKU: FBM59,99.07.08.54 
-ASIN: B073RQMCXB
-BSR #:
-Stock: 324
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $60.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $60.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-Delta PMB-24V35W1AA Switching Power Supplies 24V 35W Open Frame 98 x 98 x 37.5mmCondition: New
-SKU: FBM59,99.07.08.60 
-ASIN: B07PK52W7Z
-BSR #:
-Stock: 7
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $None
-Low FBA Price:
-USD $
-To Buy Box:
-USD $None
-Current Price:
-USD $60.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-CA
-US
-VOF-85-15, AC/DC Power Supply- 1 Output - Open Frame - 15V@5.7 A - 85WCondition: New
-SKU: FBM129.07.08.91 
-ASIN: B07WJX11L2
-BSR #:
-Stock: 120
-(0.00 inc VAT)
-Buy Price:CAD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-Canada
-Buy Box:
-CAD $420.44
-Low FBA Price:
-CAD $
-To Buy Box:
-CAD $3.83
-Current Price:
-CAD $424.27
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-CAD $
-Min:
-CAD $
-Max:
-CAD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-PFC500-1048F, AC/DC Power Supply Single-Out 48V 10.4A 500WCondition: New
-SKU: FBM1369.07.08.04 
-ASIN: B07MDHPDLV
-BSR #:
-Stock: 15
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $1369.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $1369.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-XP POWER - DSR75PS24 - Power Supply, AC-DC, 24V, 3.2ACondition: New
-SKU: FBM139.07.08.06 
-ASIN: B07NVJ3JZQ
-BSR #:
-Stock: 120
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $139.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $139.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-XP POWER - FHSMM03A1FR - PWR LINE Filter, 1.2MH, 3A, QCCondition: New
-SKU: FBM62,99.07.08.63 
-ASIN: B07S7SJ7XT
-BSR #:
-Stock: 15
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $63.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $63.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-PFC375-4002G, AC/DC Power Supply Quad-Out 5V/12V/12V/24V 40A/10A/6A/3A 375WCondition: New
-SKU: FBM1399.07.08.52 
-ASIN: B07M9WPPGF
-BSR #:
-Stock: 22
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $1399.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $1399.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-US
-XP POWER AJM90PS19 Desktop AC Adapter Medical & IT; 90W 19V 4.74A; 80-264VAC in; Level VI, AC C6, DC Power DIN, 4 PinCondition: New
-SKU: FBM149.07.08.95 
-ASIN: B083ZL3ZGR
-BSR #:
-Stock: 3
-(0.00 inc VAT)
-Buy Price:USD $
- History
-Ignore Merchants
-Analyze with BBP
-FBA
-FBM
- 
-Retail
-Wholesale
- 
-PAN:
-
-Off
-On
-Repricing
- 
-Compete With Amazon
-Automate B/E and Min Max
-Automate B/E and Min Max All Marketplaces
-Notes...
-US
-Buy Box:
-USD $149.00
-Low FBA Price:
-USD $
-To Buy Box:
-USD $0
-Current Price:
-USD $149.00
-Profit:
-ROI:
-%
-Profit Margin:
-%
-Break Even:
-USD $
-Min:
-USD $
-Max:
-USD $
-Strategy
-
-Default
-Automation
-
-No Automation
-CA
-US
-Phoenix Contact 2702532 Router, TC Router 3002T-4G VZW, Industrial LTE 4G RouterCondition: New
-SKU: FBM1499.18.07.119 
-ASIN: B0859KN7WG
-BSR #:
-Stock: 9
-(0.00 inc VAT)
-Buy Price:CAD $
- History
-Ignore Merchants
+Scheduled Repricing
 Analyze with BBP
 FBA
 FBM
@@ -2405,7 +1252,7 @@ CAD $
 To Buy Box:
 CAD $None
 Current Price:
-CAD $2435.09
+CAD $None
 Profit:
 ROI:
 %
@@ -2423,16 +1270,17 @@ Default
 Automation
 
 No Automation
-US
-ECE40US05-S, Power Supply; AC-DC; 40W 5VDC 8A, 85-264VAC in; Encapsulated; Chassis Mt, Screw TerminalCondition: New
-SKU: FBM159.07.08.41 
-ASIN: B0CY2XKV94
+CA
+Interface Development Tools USB to Serial UART Mini Dev Mod FT232RCondition: New
+SKU: FBM60,489.01.0.127 
+ASIN: B00HKHX21A
 BSR #:
-Stock: 120
+Stock: 1227
 (0.00 inc VAT)
-Buy Price:USD $
+Buy Price:CAD $
  History
 Ignore Merchants
+Scheduled Repricing
 Analyze with BBP
 FBA
 FBM
@@ -2450,26 +1298,26 @@ Compete With Amazon
 Automate B/E and Min Max
 Automate B/E and Min Max All Marketplaces
 Notes...
-US
+Canada
 Buy Box:
-USD $159.00
+CAD $None
 Low FBA Price:
-USD $
+CAD $
 To Buy Box:
-USD $0
+CAD $None
 Current Price:
-USD $159.00
+CAD $347.06
 Profit:
 ROI:
 %
 Profit Margin:
 %
 Break Even:
-USD $
+CAD $
 Min:
-USD $
+CAD $
 Max:
-USD $
+CAD $
 Strategy
 
 Default
@@ -2477,16 +1325,124 @@ Automation
 
 No Automation
 CA
-US
-XP POWER FIHAA01C1F Filter; EMC; Chassis Mount; ITE; 1ACondition: New
-SKU: FBM66,9.07.08.84 
-ASIN: B083P3Q7DG
+NMB TECHNOLOGIES 2406KL-05W-B10-L00 AXIAL FAN, 60MM, 24VDC, 40mACondition: Unavailable
+SKU: FBM39,99.00.01.06.60 
+ASIN: B00DJYAQFI
+BSR #:
+Stock: 39
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $None
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $None
+Current Price:
+CAD $None
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+Honeywell 103SR13A-9 Hall Effect Position Sensor Sealed Housing, Unipolar, Max Bop/min Brp:49.5/20mT, Digi O.C Sink Output 20mA 0.4V, Vs: 4.5-24V, 2 Hex Nuts 3m Cable, Cylind Thread, -40~100°CCondition: New
+SKU: FBM296,99.10.05.81 
+ASIN: B07RWPCXVB
+BSR #:
+Stock: 50
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $763.26
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $0
+Current Price:
+CAD $763.26
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+XP POWER ECS100US24 AC/DC Open Frame Power Supply, Medical, Adjustable, Fixed, 80 V, 264 V, 80 W, 24 V, 4.2 ACondition: New
+SKU: FBM119,99.20 
+ASIN: B00DLSO7CU
 BSR #:
 Stock: 20
 (0.00 inc VAT)
 Buy Price:CAD $
  History
 Ignore Merchants
+Scheduled Repricing
 Analyze with BBP
 FBA
 FBM
@@ -2506,13 +1462,339 @@ Automate B/E and Min Max All Marketplaces
 Notes...
 Canada
 Buy Box:
-CAD $323.63
+CAD $378.31
 Low FBA Price:
 CAD $
 To Buy Box:
-CAD $1.98
+CAD $0
 Current Price:
-CAD $325.61
+CAD $378.31
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+US
+Weller WMRT 24V Micro Desoldering Tweezers for WD1M and WD2M Soldering and Rework StationsCondition: Unavailable
+SKU: FBARROW299.99.99.11.11.24 
+ASIN: B000UMMUII
+BSR #:
+Stock: 15
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $None
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $None
+Current Price:
+CAD $None
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+Advantech PCIE-1674E-AE 4-Port PCI Express GbE PoE Vision Card, 4-Port PCI Express GigE Vision Frame Grabber, a PCIe x 4 Bus Network Interface Card (NIC) with 4 Ethernet Ports.Condition: New
+SKU: FBM499,01.09,12 
+ASIN: B07JMFHGXY
+BSR #:
+Stock: 85
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $None
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $None
+Current Price:
+CAD $1298.99
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+Advantech ADAM-6050, 18-Ch Isolated DI/O ModuleCondition: Unavailable
+SKU: FBM399,01.09,16 
+ASIN: B07GVH2C5R
+BSR #:
+Stock: 222
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $None
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $None
+Current Price:
+CAD $None
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+ADVANTECH ADAM-6050-D 18-Ch Isolated DI/O Modbus TCP Module, Ethernet I/O Module.Condition: New
+SKU: FBM399,01.09,13 
+ASIN: B07GNXYVJZ
+BSR #:
+Stock: 127
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $938.99
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $0
+Current Price:
+CAD $938.99
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+ADVANTECH FPM-1150G-RHAE 15" XGA Ind. Monitor w/Resistive TS and VGA/HDMI PortCondition: New
+SKU: FBM1199,01.09,15 
+ASIN: B07Y2DMLMC
+BSR #:
+Stock: 9
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $3098.99
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $0
+Current Price:
+CAD $3098.99
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+US
+Eaton Cutler-Hammer CHBJ2150 C-H BJ2150 150A BJ Plug ON 2P 120/240V, BlackCondition: Unavailable
+SKU: FBMHOMEDEPOT269.99.27.10.24 
+ASIN: B000UEK0BK
+BSR #:
+Stock: 57
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $314.84
+Low FBA Price:
+CAD $314.84
+To Buy Box:
+CAD $None
+Current Price:
+CAD $None
 Profit:
 ROI:
 %
@@ -2531,15 +1813,16 @@ Automation
 
 No Automation
 US
-XP POWER FCSS10SFR Power EntryModule; EMC Filter; IEC Inlet; 10ACondition: New
-SKU: FBM66,99.07.08.48 
-ASIN: B083F5XY5T
-BSR #:
-Stock: 14
+OTTA 6-T, Universal Terminal Block with Bolt Connection, with Disconnect Slide, Cross Section: 0.1-6 mm², Width: 11 mm, Color: Gray (2 Items)Condition: New
+SKU: FBM89,99.27.10.228 
+ASIN: B07MF5K4YK
+BSR #: 1456083
+Stock: 750
 (0.00 inc VAT)
 Buy Price:USD $
  History
 Ignore Merchants
+Scheduled Repricing
 Analyze with BBP
 FBA
 FBM
@@ -2559,13 +1842,13 @@ Automate B/E and Min Max All Marketplaces
 Notes...
 US
 Buy Box:
-USD $49.99
+USD $None
 Low FBA Price:
 USD $
 To Buy Box:
-USD $17.01
+USD $None
 Current Price:
-USD $67.00
+USD $90.00
 Profit:
 ROI:
 %
@@ -2585,15 +1868,16 @@ Automation
 No Automation
 CA
 US
-LCS100US15, Power Supply, AC-DC, Enclosed, 100W 15VDC 7A, Adj Vout, Input: 85-264VAC 120-373VDCCondition: New
-SKU: FBM66,99.07.08.80 
-ASIN: B0BTRZMLV4
+1521339, Conn 7/8 Circular PIN 4 POS Screw ST Cable Mount 4 Terminal 1 PortCondition: Unavailable
+SKU: FBM89,99.27.10.219 
+ASIN: B005TBCXUK
 BSR #:
-Stock: 25
+Stock: 125
 (0.00 inc VAT)
 Buy Price:CAD $
  History
 Ignore Merchants
+Scheduled Repricing
 Analyze with BBP
 FBA
 FBM
@@ -2619,7 +1903,7 @@ CAD $
 To Buy Box:
 CAD $None
 Current Price:
-CAD $157.20
+CAD $None
 Profit:
 ROI:
 %
@@ -2637,17 +1921,505 @@ Default
 Automation
 
 No Automation
+US
+SACC-M12MS-8CON-PG11-M (1 Items)Condition: New
+SKU: FBM89,99.27.10.166 
+ASIN: B08TTKN35R
+BSR #:
+Stock: 140
+(0.00 inc VAT)
+Buy Price:USD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+US
+Buy Box:
+USD $None
+Low FBA Price:
+USD $
+To Buy Box:
+USD $None
+Current Price:
+USD $90.00
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+USD $
+Min:
+USD $
+Max:
+USD $
+Strategy
+
+Default
+Automation
+
+No Automation
+US
+2966278, Relay Module - PLC-RSC- 24UC/21AU - 2966278Condition: New
+SKU: FBM89,99.27.10.155 
+ASIN: B00MEJ1FKE
+BSR #:
+Stock: 130
+(0.00 inc VAT)
+Buy Price:USD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+US
+Buy Box:
+USD $None
+Low FBA Price:
+USD $
+To Buy Box:
+USD $None
+Current Price:
+USD $90.00
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+USD $
+Min:
+USD $
+Max:
+USD $
+Strategy
+
+Default
+Automation
+
+No Automation
+US
+AC Power Plugs & Receptacles EM-DUO 120/15Condition: New
+SKU: FBM89,99.27.10.137 
+ASIN: B00BUNFS1W
+BSR #:
+Stock: 267
+(0.00 inc VAT)
+Buy Price:USD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+US
+Buy Box:
+USD $90.00
+Low FBA Price:
+USD $
+To Buy Box:
+USD $0
+Current Price:
+USD $90.00
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+USD $
+Min:
+USD $
+Max:
+USD $
+Strategy
+
+Default
+Automation
+
+No Automation
 CA
 US
-XP POWER FIHAA20C2F Filter; EMC; Chassis Mount; ITE; 20ACondition: New
-SKU: FBM68,99.07.08.49 
-ASIN: B083M9HQGS
+Banner 88559, Ez-Screen Ls Side Brackets, Ezlsa-Mbk-16 88559Condition: Unavailable
+SKU: FBM89,99.27.10.129 
+ASIN: B0843K2XZ3
+BSR #:
+Stock: 28
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $None
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $None
+Current Price:
+CAD $None
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+US
+Banner Engineering Quick Disconnect Cable, M12, 5 Position, Right Angle - MQDC1-506RACondition: New
+SKU: FBM89,99.27.10.119 
+ASIN: B08X1S4V5F
+BSR #:
+Stock: 71
+(0.00 inc VAT)
+Buy Price:USD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+US
+Buy Box:
+USD $90.00
+Low FBA Price:
+USD $
+To Buy Box:
+USD $0
+Current Price:
+USD $90.00
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+USD $
+Min:
+USD $
+Max:
+USD $
+Strategy
+
+Default
+Automation
+
+No Automation
+US
+1095889, Sensor/Actuator Cordset, R/A M12 F 4pos to Free end, 4wire 10m,PVC Gray, Shield, SAC-4P-10,0-680/M12FR FDNCondition: New
+SKU: FBM88,99.27.10.197 
+ASIN: B09MDNBWV9
+BSR #:
+Stock: 8
+(0.00 inc VAT)
+Buy Price:USD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+US
+Buy Box:
+USD $None
+Low FBA Price:
+USD $
+To Buy Box:
+USD $None
+Current Price:
+USD $89.00
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+USD $
+Min:
+USD $
+Max:
+USD $
+Strategy
+
+Default
+Automation
+
+No Automation
+US
+ERP POWER ESSV030W-0700-42 ESSV030 Series 29.4 W 700 mA 42 V Output Max Constant Current LED Driver - 1 item(s)Condition: New
+SKU: FBM86,99.27.10.31 
+ASIN: B076F96VK2
+BSR #:
+Stock: 48
+(0.00 inc VAT)
+Buy Price:USD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+US
+Buy Box:
+USD $87.00
+Low FBA Price:
+USD $
+To Buy Box:
+USD $0
+Current Price:
+USD $87.00
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+USD $
+Min:
+USD $
+Max:
+USD $
+Strategy
+
+Default
+Automation
+
+No Automation
+US
+ERP POWER ESM030W-0500-42 ESM030 Series 21 W 500 mA 42 V Output Max Constant Current LED Driver - 1 item(s)Condition: New
+SKU: FBM86,99.27.10.29 
+ASIN: B0748M4Y4B
+BSR #:
+Stock: 96
+(0.00 inc VAT)
+Buy Price:USD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+US
+Buy Box:
+USD $87.00
+Low FBA Price:
+USD $
+To Buy Box:
+USD $0
+Current Price:
+USD $87.00
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+USD $
+Min:
+USD $
+Max:
+USD $
+Strategy
+
+Default
+Automation
+
+No Automation
+CA
+US
+2966773, Solid State Relay Module, 1 N/O, 24VDCin, Output: 3-48VDC/100 mA, PLC-OSC- 24DC/ 48DC 100/SENCondition: New
+SKU: FBM84,99.27.10.176 
+ASIN: B09LWY76LT
+BSR #:
+Stock: 15
+(0.00 inc VAT)
+Buy Price:CAD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+Canada
+Buy Box:
+CAD $353.72
+Low FBA Price:
+CAD $
+To Buy Box:
+CAD $0
+Current Price:
+CAD $353.72
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+CAD $
+Min:
+CAD $
+Max:
+CAD $
+Strategy
+
+Default
+Automation
+
+No Automation
+US
+Q5XKILAF3000-Q8, Laser Sensor, BFGS, Rectang, R: 3m; 12-30Vdc; Ana 4-20mA PNP/NPN IO-Link; 5-pin M12QD, 809366Condition: New
+SKU: FBM799,99.27.10.116 
+ASIN: B0C8BL1WJC
 BSR #:
 Stock: 16
 (0.00 inc VAT)
-Buy Price:CAD $
+Buy Price:USD $
  History
 Ignore Merchants
+Scheduled Repricing
 Analyze with BBP
 FBA
 FBM
@@ -2665,26 +2437,296 @@ Compete With Amazon
 Automate B/E and Min Max
 Automate B/E and Min Max All Marketplaces
 Notes...
-Canada
+US
 Buy Box:
-CAD $325.71
+USD $800.00
 Low FBA Price:
-CAD $
+USD $
 To Buy Box:
-CAD $3.09
+USD $0
 Current Price:
-CAD $328.80
+USD $800.00
 Profit:
 ROI:
 %
 Profit Margin:
 %
 Break Even:
-CAD $
+USD $
 Min:
-CAD $
+USD $
 Max:
-CAD $
+USD $
+Strategy
+
+Default
+Automation
+
+No Automation
+US
+ERP Power ESS015W-1050-14 CC LED Power Supply 120-277 Vac, 87% eff, Rectangular ESS Plastic Case, Forward/Reverse Phase & 0-10V dimming, 1-100% dim Range, 14.7W max, 1050 mA Iout, 8-14 V VoutCondition: New
+SKU: FBM79,99.27.10.26 
+ASIN: B07M68BQ23
+BSR #:
+Stock: 136
+(0.00 inc VAT)
+Buy Price:USD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+US
+Buy Box:
+USD $80.00
+Low FBA Price:
+USD $
+To Buy Box:
+USD $0
+Current Price:
+USD $80.00
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+USD $
+Min:
+USD $
+Max:
+USD $
+Strategy
+
+Default
+Automation
+
+No Automation
+US
+1413993, Conn M12 Circular PIN 4 POS ST Cable Mount 4 Terminal 1 PortCondition: New
+SKU: FBM79,99.27.10.208 
+ASIN: B07MFC1Q61
+BSR #:
+Stock: 30
+(0.00 inc VAT)
+Buy Price:USD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+US
+Buy Box:
+USD $80.00
+Low FBA Price:
+USD $
+To Buy Box:
+USD $0
+Current Price:
+USD $80.00
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+USD $
+Min:
+USD $
+Max:
+USD $
+Strategy
+
+Default
+Automation
+
+No Automation
+US
+1757187, Conn Terminal Block F 19 POS 5.08mm Screw RA Cable Mount 12A (2 Items)Condition: New
+SKU: FBM79,99.27.10.201 
+ASIN: B07MHWZZ1K
+BSR #:
+Stock: 0
+(0.00 inc VAT)
+Buy Price:USD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+US
+Buy Box:
+USD $80.00
+Low FBA Price:
+USD $
+To Buy Box:
+USD $0
+Current Price:
+USD $80.00
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+USD $
+Min:
+USD $
+Max:
+USD $
+Strategy
+
+Default
+Automation
+
+No Automation
+US
+1696183, Conn Circular Adapter F/F/M 3/3/4 POS Y Style 3 PortCondition: New
+SKU: FBM79,99.27.10.196 
+ASIN: B004I2J8KE
+BSR #:
+Stock: 90
+(0.00 inc VAT)
+Buy Price:USD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+US
+Buy Box:
+USD $80.00
+Low FBA Price:
+USD $
+To Buy Box:
+USD $0
+Current Price:
+USD $80.00
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+USD $
+Min:
+USD $
+Max:
+USD $
+Strategy
+
+Default
+Automation
+
+No Automation
+US
+1694101, Cable Assembly Sensor/Actuator 10m 24AWG Circular 3 POS FCondition: New
+SKU: FBM79,99.27.10.173 
+ASIN: B0137ICVDA
+BSR #:
+Stock: 110
+(0.00 inc VAT)
+Buy Price:USD $
+ History
+Ignore Merchants
+Scheduled Repricing
+Analyze with BBP
+FBA
+FBM
+ 
+Retail
+Wholesale
+ 
+PAN:
+
+Off
+On
+Repricing
+ 
+Compete With Amazon
+Automate B/E and Min Max
+Automate B/E and Min Max All Marketplaces
+Notes...
+US
+Buy Box:
+USD $None
+Low FBA Price:
+USD $
+To Buy Box:
+USD $None
+Current Price:
+USD $80.00
+Profit:
+ROI:
+%
+Profit Margin:
+%
+Break Even:
+USD $
+Min:
+USD $
+Max:
+USD $
 Strategy
 
 Default
@@ -2692,10 +2734,8 @@ Automation
 
 No Automation
 Previous
+1
 2
 3
-4
-5
-6
 Next
 © Copyright 2024 Profit Protector Pro. All rights reserved
