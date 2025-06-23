@@ -4,8 +4,9 @@ lista = list()
 with open(f'profit/arquivos/asin.txt', 'r', encoding='utf-8') as arquivo:
         linhas = arquivo.readlines()
         for linha in linhas:
-            if 'ASIN: ' in linha:
-               asin = linha[6:-1]
+            # if 'ASIN: ' in linha:
+               # asin = linha[6:-1]
+               asin = linha[1:-1]
                lista.append([asin])
                
                

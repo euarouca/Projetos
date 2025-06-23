@@ -1,2 +1,9 @@
-# Projetos
- Projetos e gambiarras pra ajudar no dia a dia
+# Flet app
+
+A simple Flet app.
+
+To run the app:
+
+```
+flet run [app_directory]
+```
