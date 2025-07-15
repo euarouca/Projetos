@@ -1,11 +1,12 @@
 import os
-import entrada_dados 
+import entrada_dados
 import crud_produtos
 import crud_distribuidores
 import crud_dados
 import crud_asin
 from database import Base, db
 import processamento
+import exportador
 
 # Constante para indicar que um campo não deve ser alterado
 _VALOR_NAO_ALTERAR = object()
@@ -280,7 +281,7 @@ def menu_gerenciar_asins():
         
         input("\nPressione Enter para continuar...")
 
-# --- Menus de Processamento de Arquivos ---
+# --- Menus de Processamento e Exportação ---
 
 def menu_processar_pasta_distribuidores():
     """Menu para processar uma pasta de CSVs com dados unificados."""
@@ -288,12 +289,10 @@ def menu_processar_pasta_distribuidores():
     print("--- Processar Pasta de CSVs de Distribuidores (Formato Unificado) ---")
     caminho_pasta = '/Users/lucasmello/Projetos/API/planilhas'
     if os.path.isdir(caminho_pasta):
-        # A chamada agora é para a nova função unificada
         entrada_dados.processar_pasta_unificada(caminho_pasta)
     else:
         print("Caminho inválido ou não é uma pasta.")
     input("\nPressione Enter para continuar...")
-    
     
 def menu_atualizar_todos_fbm():
     """Menu para disparar a atualização de todos os registros FBM."""
@@ -311,13 +310,27 @@ def menu_atualizar_todos_fbm():
 
     input("\nPressione Enter para continuar...")
 
+def menu_exportar_produtos_csv(): # Função renomeada
+    """Menu para exportar todos os produtos para arquivos CSV."""
+    limpar_tela()
+    print("--- Exportar Produtos para CSV ---") # Título atualizado
+
+    caminho_padrao = '/Users/lucasmello/Projetos/API/planilhas_exportadas'
+    caminho_pasta = input(f"Digite a pasta de destino (padrão: {caminho_padrao}): ").strip()
+    if not caminho_pasta:
+        caminho_pasta = caminho_padrao
+
+    # A chamada agora é para a nova e simples função de exportar produtos
+    exportador.exportar_produtos_em_lote(caminho_pasta)
+
+    input("\nPressione Enter para continuar...")
+
 # --- Loop Principal ---
 if __name__ == "__main__":
     print("Inicializando e verificando o banco de dados...")
     Base.metadata.create_all(db)
     print("Sistema pronto.")
     input("Pressione Enter para continuar...")
-    
 
     while True:
         limpar_tela()
@@ -327,9 +340,10 @@ if __name__ == "__main__":
         print("2. Gerenciar Distribuidores")
         print("3. Gerenciar Dados de Distribuidores")
         print("4. Gerenciar ASINs (FBM)")
-        print("\n--- Processamento de Arquivos ---") # Título da Seção Atualizado
+        print("\n--- Processamento e Exportação ---")
         print("5. Processar Pasta de CSVs de Distribuidores (Unificado)")
-        print("6. Atualizar Todos os Registros FBM (Análise de Ofertas)") 
+        print("6. Atualizar Todos os Registros FBM (Análise de Ofertas)")
+        print("7. Exportar Produtos para CSV")
         print("\n---------------------------------")
         print("0. Sair")
         
@@ -347,6 +361,8 @@ if __name__ == "__main__":
             menu_processar_pasta_distribuidores() 
         elif escolha == '6': 
             menu_atualizar_todos_fbm()
+        elif escolha == '7':
+            menu_exportar_produtos_csv()
         elif escolha == '0':
             print("Saindo do programa.")
             break

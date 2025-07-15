@@ -106,8 +106,14 @@ class Distributor(Base):
     __tablename__ = 'distribuidores'
     
     id = Column(Integer, primary_key=True, autoincrement=True)
-    name = Column(String, index=True, unique=True, nullable=False) # Nome do distribuidor é único e não nulo
-    prime = Column(Boolean, default=False, nullable=False) # pertence aos melhores distribuidores
+    name = Column(String, index=True, unique=True, nullable=False)
+    prime = Column(Boolean, default=False, nullable=False)
+    
+    data_entries = relationship(
+    "DistributorData",
+    back_populates="distributor_relationship",
+    cascade="all, delete-orphan" 
+    )
 
     def __init__(self, name, prime=False):
         self.name = name
@@ -140,7 +146,7 @@ class DistributorData(Base):
     price = Column(Float)
     stock = Column(Integer)
 
-    distributor_relationship = relationship("Distributor", backref="data_entries")
+    distributor_relationship = relationship("Distributor", back_populates="data_entries")
 
     def __init__(self, distributor_name: str, partNumber: str, pack: int, price: float, stock: int, sku: str = None):
         self.distributor_name = distributor_name
