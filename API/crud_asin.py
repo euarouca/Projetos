@@ -1,11 +1,13 @@
+# crud_asin.py
+
 from sqlalchemy.exc import SQLAlchemyError
 from database import session, FBM, Product 
-# Um objeto especial para indicar que um campo não deve ser alterado na atualização
+
 _VALOR_NAO_ALTERAR = object()
 
 # --- Create ---
 def adicionar_asin(
-    product_id: int, # Obrigatório, para associar ao produto
+    product_id: int,
     asin: str,
     last_price: float = None,
     current_price: float = None,
@@ -17,39 +19,21 @@ def adicionar_asin(
     promotion: str = None,
 ):
     """
-    Adiciona um novo ASIN (FBM) ao banco de dados, associado a um produto existente.
-
-    Args:
-        product_id (int): O ID do produto (da tabela 'produtos') ao qual este ASIN está associado.
-        asin (str): O ASIN do produto (deve ser único).
-        last_price (float, optional): Preço da última atualização.
-        current_price (float, optional): Preço atual.
-        supplier (str, optional): Nome do fornecedor.
-        stock (int, optional): Estoque do fornecedor escolhido.
-        prime_stock (int, optional): Estoque dos melhores fornecedores.
-        all_stock (int, optional): Estoque de todos os fornecedores somados.
-        gap_stock (int, optional): Diferença da última atualização de ALL_STOCK para essa.
-        promotion (str, optional): Indica se está em promoção.
-
-    Returns:
-        FBM: O objeto FBM criado e salvo, ou o objeto existente se o ASIN já existir.
-             Retorna None em caso de erro ou se o product_id não for válido.
+    Adiciona um novo ASIN (FBM), associado a um produto existente.
+    Retorna uma tupla: (objeto FBM, booleano indicando se foi criado).
     """
     asin = asin.strip()
 
-    # Verificar se o product_id fornecido existe na tabela de produtos
     produto_associado = session.query(Product).filter_by(id=product_id).first()
     if not produto_associado:
         print(f"Erro: Produto com ID={product_id} não encontrado. Não é possível adicionar ASIN '{asin}'.")
-        return None
+        return None, False
 
-    # Verificar se o ASIN já foi adicionado
     asin_existente = session.query(FBM).filter_by(asin=asin).first()
     if asin_existente:
-        # print(f'Aviso: ASIN "{asin}" já existe (ID={asin_existente.id}, associado ao Produto ID={asin_existente.product_id}).')
-        return asin_existente
+        # Se o ASIN já existe, retorna o objeto e False (não foi criado agora)
+        return asin_existente, False
 
-    # Adicionando ao banco de dados
     novo_fbm = FBM(
         product_id=product_id,
         asin=asin,
@@ -66,38 +50,31 @@ def adicionar_asin(
     try:
         session.add(novo_fbm)
         session.commit()
-        return novo_fbm
+        # Se foi criado com sucesso, retorna o objeto e True
+        return novo_fbm, True
     except SQLAlchemyError as e:
         session.rollback()
-        print(f'Erro SQLAlchemy ao adicionar FBM para ASIN="{asin}", Produto ID={product_id}: {str(e)}')
-        return None
+        print(f'Erro SQLAlchemy ao adicionar FBM para ASIN="{asin}": {str(e)}')
+        return None, False
     except Exception as e:
         session.rollback()
-        print(f"Um erro inesperado ocorreu ao adicionar FBM para ASIN '{asin}', Produto ID={product_id}: {str(e)}")
-        return None
+        print(f"Um erro inesperado ocorreu ao adicionar FBM para ASIN '{asin}': {str(e)}")
+        return None, False
+
+# --- O restante do arquivo crud_asin.py (visualizar, atualizar, deletar) pode continuar o mesmo ---
 
 # -- Read --
 def visualizar_asin(asin: str):
-    """
-    Busca e exibe os detalhes de um ASIN (FBM) específico.
-
-    Args:
-        asin (str): O ASIN a ser visualizado.
-
-    Returns:
-        FBM: O objeto FBM encontrado, ou None se não for encontrado ou em caso de erro.
-    """
     asin = asin.strip()
     try:
         fbm_obj = session.query(FBM).filter_by(asin=asin).first()
 
         if fbm_obj:
-            print(str(fbm_obj)) # Utiliza o __str__ da classe FBM para printar
+            print(str(fbm_obj))
             return fbm_obj
         else:
             print(f"ASIN {asin} não encontrado no banco de dados.")
             return None
-
     except SQLAlchemyError as e:
         print(f"Erro SQLAlchemy ao buscar ASIN {asin}: {str(e)}")
         return None
@@ -119,21 +96,6 @@ def atualizar_fbm_campos_especificos(
     gap_stock: int = _VALOR_NAO_ALTERAR,
     promotion: str = _VALOR_NAO_ALTERAR
 ):
-    """
-    Atualiza campos específicos de um registro FBM existente.
-    O registro é identificado pelo `asin_para_atualizar`. O próprio ASIN pode ser alterado
-    para `novo_asin_valor` se não houver conflito.
-
-    Args:
-        asin_para_atualizar (str): O ASIN atual do registro FBM a ser modificado.
-        novo_asin_valor (str, optional): O novo valor para o ASIN do registro.
-        product_id (int, optional): O novo ID do produto associado.
-        # ... outros campos ...
-    Returns:
-        bool: True se a atualização for bem-sucedida e algum campo foi alterado,
-              False caso contrário (registro não encontrado, erro, ou nenhuma alteração feita).
-    """
-    
     asin_para_atualizar = asin_para_atualizar.strip()
     if not asin_para_atualizar:
         print("Erro: O ASIN para identificar o registro a ser atualizado não pode ser vazio.")
@@ -146,15 +108,13 @@ def atualizar_fbm_campos_especificos(
             return False
 
         campos_atualizados = 0
-        asin_original_para_log = fbm_obj.asin # Para logs, caso o ASIN seja alterado
+        asin_original_para_log = fbm_obj.asin
 
-        # Tentar atualizar o ASIN primeiro, se solicitado
         if novo_asin_valor is not _VALOR_NAO_ALTERAR:
             novo_asin_stripped = novo_asin_valor.strip()
             if not novo_asin_stripped:
                 print(f"Aviso: Novo valor para ASIN não pode ser vazio. O ASIN do registro '{asin_original_para_log}' não será alterado.")
-            elif novo_asin_stripped != fbm_obj.asin: # Somente se for diferente do ASIN atual
-                # Verificar se o novo ASIN já existe para outro registro
+            elif novo_asin_stripped != fbm_obj.asin:
                 conflito_obj = session.query(FBM).filter(FBM.asin == novo_asin_stripped).first()
                 if conflito_obj and conflito_obj.id != fbm_obj.id:
                     print(f"Erro: O ASIN '{novo_asin_stripped}' já está em uso por outro registro (ID={conflito_obj.id}). O ASIN do registro '{asin_original_para_log}' não será alterado.")
@@ -163,7 +123,6 @@ def atualizar_fbm_campos_especificos(
                     fbm_obj.asin = novo_asin_stripped
                     campos_atualizados += 1
         
-        # Atualizar product_id
         if product_id is not _VALOR_NAO_ALTERAR and fbm_obj.product_id != product_id:
             produto_associado = session.query(Product).filter_by(id=product_id).first()
             if not produto_associado:
@@ -172,7 +131,6 @@ def atualizar_fbm_campos_especificos(
                 fbm_obj.product_id = product_id
                 campos_atualizados += 1
         
-        #  Atualização dos outros campos
         if last_price is not _VALOR_NAO_ALTERAR and fbm_obj.last_price != last_price:
             fbm_obj.last_price = last_price
             campos_atualizados += 1
@@ -208,7 +166,6 @@ def atualizar_fbm_campos_especificos(
         else:
             print(f"Nenhum campo foi especificado para alteração ou os valores são os mesmos para o ASIN '{asin_original_para_log}'. Nenhuma atualização realizada.")
             return False
-
     except SQLAlchemyError as e:
         session.rollback()
         print(f"Erro SQLAlchemy ao atualizar FBM para ASIN (original): {asin_para_atualizar}: {str(e)}")
@@ -220,15 +177,6 @@ def atualizar_fbm_campos_especificos(
 
 # -- Delete --
 def deletar_fbm_por_asin(asin: str):
-    """
-    Deleta um registro FBM do banco de dados com base no ASIN.
-
-    Args:
-        asin (str): O ASIN do registro FBM a ser deletado.
-
-    Returns:
-        bool: True se a deleção for bem-sucedida, False caso contrário.
-    """
     asin = asin.strip()
     if not asin:
         print("Erro: ASIN para deleção não pode ser vazio.")
@@ -245,7 +193,6 @@ def deletar_fbm_por_asin(asin: str):
         else:
             print(f"ASIN '{asin}' não encontrado para deleção.")
             return False
-
     except SQLAlchemyError as e:
         session.rollback()
         print(f"Erro SQLAlchemy ao deletar FBM para ASIN '{asin}': {str(e)}")
